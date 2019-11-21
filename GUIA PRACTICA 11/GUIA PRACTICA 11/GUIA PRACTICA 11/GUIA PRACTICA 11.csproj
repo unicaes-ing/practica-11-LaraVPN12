@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>GUIA_PRACTICA_11</RootNamespace>
+    <StartupObject>GUIA_PRACTICA_11.Ejercicio_2</StartupObject>
+  </PropertyGroup>
+
+</Project>
